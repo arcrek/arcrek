@@ -10,7 +10,7 @@ my workflow is basically:
 
 somehow ended up building:
 - a telegram bot that sells digital products, handles qr payments, auto-delivers
-  orders, and has an admin dashboard — because a normal shop was too boring
+  orders — because a normal shop was banned
 - a telegram bot that manages office 365 subscriptions so i don't have to click things
 
 none of which i fully understand, but they run in production so we don't talk about it.
