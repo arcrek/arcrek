@@ -22,6 +22,7 @@ the robots haven't unionized yet. fingers crossed.
 ---
 
 📍 vietnam 🇻🇳
+
 ☕ powered by caffeine and AI
 
 ---
