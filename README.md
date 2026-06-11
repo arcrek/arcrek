@@ -1,4 +1,3 @@
----
 ## hey, i'm arcrek 👋
 
 a ICT student who mostly asks AI to write code and pretends to understand it.
