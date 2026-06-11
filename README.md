@@ -1,3 +1,30 @@
+---
+## hey, i'm arcrek 👋
+
+a ICT student who mostly asks AI to write code and pretends to understand it.
+
+my workflow is basically:
+1. have a half-baked idea at 2am
+2. dump it on claude
+3. accept edit and build until it works
+4. ship it and never touch it again
+
+somehow ended up building:
+- a telegram bot that sells digital products, handles qr payments, auto-delivers
+  orders, and has an admin dashboard — because a normal shop was too boring
+- a telegram bot that manages office 365 subscriptions so i don't have to click things
+
+none of which i fully understand, but they run in production so we don't talk about it.
+the robots haven't unionized yet. fingers crossed.
+
+> *"works on my machine"* — me, always
+
+---
+
+📍 vietnam 🇻🇳
+☕ powered by caffeine and AI
+
+---
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/arcreklabs) 
