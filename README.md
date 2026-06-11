@@ -9,9 +9,9 @@ my workflow is basically:
 4. ship it and never touch it again
 
 somehow ended up building:
-- a telegram bot that sells digital products, handles qr payments, auto-delivers
-  orders — because a normal shop was banned
+- a telegram bot that sells digital products, handles qr payments, auto-delivers orders — because a normal shop was banned
 - a telegram bot that manages office 365 subscriptions so i don't have to click things
+- a homelab running proxmox, truenas, adguard, portainer, and jellyfin — because paying for netflix while self-hosting a media server is a cry for help
 
 none of which i fully understand, but they run in production so we don't talk about it.
 the robots haven't unionized yet. fingers crossed.
