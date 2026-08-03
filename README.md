@@ -1,37 +1,52 @@
-## hey, i'm arcrek 👋
+# hey, i'm arcrek 👋
 
-a ICT student who mostly asks AI to write code and pretends to understand it.
+I'm an ICT student from Vietnam who turns late-night ideas into things that somehow run in production.
 
-my workflow is basically:
-1. have a half-baked idea at 2am
-2. dump it on claude
-3. accept edit and build until it works
-4. ship it and never touch it again
+## things i've built
 
-somehow ended up building:
-- a telegram bot that sells digital products, handles qr payments, auto-delivers orders — because a normal shop was banned
-- a telegram bot that manages office 365 subscriptions so i don't have to click things
-- a homelab running proxmox, truenas, adguard, portainer, and jellyfin — because paying for netflix while self-hosting a media server is a cry for help
+- **Bot Order System** — a self-hosted Telegram storefront with PayOS QR payments, balance payments, automatic digital delivery, and a React admin dashboard.
+- **Office 365 Telegram Bot** — manages subscription invitations, sharing, invite links, permissions, and customer tracking through Google Sheets.
+- **Canva Access Operations** — a full-stack admin system for time-limited Canva access, backed by guarded Camoufox/Playwright browser automation.
+- **Canva Browser Automation** — a Python library for verified Canva account checks, team sync, invitations, role changes, and removals.
+- **Pixel Gate** — a Flask, SQLite, and ADB job system that automates Google One offer activation on connected Android devices.
+- **nqdung.com** — a dark-themed Flask utility suite for reading mail, generating 2FA codes, and checking Microsoft 365 accounts.
+- **tmail-add-domain** — a passwordless temporary-mail web app and API with automatic domain provisioning through Postfix and Stalwart JMAP.
+- A homelab running Proxmox, TrueNAS, AdGuard, Portainer, and Jellyfin—because paying for Netflix while self-hosting a media server is a cry for help.
 
-none of which i fully understand, but they run in production so we don't talk about it.
-the robots haven't unionized yet. fingers crossed.
+## how it usually goes
 
-> *"works on my machine"* — me, always
+1. Have a half-baked idea at 2 a.m.
+2. Explain it to an AI.
+3. Accept, edit, and build until it works.
+4. Ship it and promise I'll document it later.
 
----
+The robots haven't unionized yet. Fingers crossed.
 
-📍 vietnam 🇻🇳
+> *“Works on my machine.”* — me, always
 
-☕ powered by caffeine and AI
+## tools i reach for
 
----
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white)
+![Jellyfin](https://img.shields.io/badge/Jellyfin-000B25?style=for-the-badge&logo=jellyfin&logoColor=00A4DC)
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/arcreklabs) 
+## github stats
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Jellyfin](https://img.shields.io/badge/jellyfin-%23000B25.svg?style=for-the-badge&logo=Jellyfin&logoColor=00A4DC)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=arcrek&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=arcrek&theme=catppuccin_mocha&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=arcrek&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![GitHub stats](https://github-readme-stats.shion.dev/api?username=arcrek&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=true)
+
+![GitHub streak](https://streak-stats.demolab.com/?user=arcrek&theme=catppuccin_mocha&hide_border=false)
+
+![Top languages](https://github-readme-stats.shion.dev/api/top-langs/?username=arcrek&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+## find me
+
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white)](https://facebook.com/arcreklabs)
