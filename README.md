@@ -8,7 +8,7 @@ I'm an ICT student from Vietnam who turns late-night ideas into things that some
 - **Office 365 Telegram Bot** — manages subscription invitations, sharing, invite links, permissions, and customer tracking through Google Sheets.
 - **Canva Access Operations** — a full-stack admin system for time-limited Canva access, backed by guarded Camoufox/Playwright browser automation.
 - **Canva Browser Automation** — a Python library for verified Canva account checks, team sync, invitations, role changes, and removals.
-- **tmail-add-domain** — a passwordless temporary-mail web app and API with automatic domain provisioning through Postfix and Stalwart JMAP.
+- **tmail** — a passwordless temporary-mail web app and API with automatic domain provisioning through Postfix and Stalwart JMAP.
 - **Pixel Gate** — a Flask, SQLite, and ADB job system that automates Google One offer activation on connected Android devices.
 - **nqdung.com** — a dark-themed Flask utility suite for reading mail, generating 2FA codes.
 - A homelab running Proxmox, TrueNAS, AdGuard, Portainer, and Jellyfin—because paying for Netflix while self-hosting a media server is a cry for help.
