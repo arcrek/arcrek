@@ -4,14 +4,11 @@ I'm an ICT student from Vietnam who turns late-night ideas into things that some
 
 ## things i've built
 
-- **Bot Order System** — a self-hosted Telegram storefront with PayOS QR payments, balance payments, automatic digital delivery, and a React admin dashboard.
-- **Office 365 Telegram Bot** — manages subscription invitations, sharing, invite links, permissions, and customer tracking through Google Sheets.
-- **Canva Access Operations** — a full-stack admin system for time-limited Canva access, backed by guarded Camoufox/Playwright browser automation.
-- **Canva Browser Automation** — a Python library for verified Canva account checks, team sync, invitations, role changes, and removals.
-- **tmail** — a passwordless temporary-mail web app and API with automatic domain provisioning through Postfix and Stalwart JMAP.
-- **Pixel Gate** — a Flask, SQLite, and ADB job system that automates Google One offer activation on connected Android devices.
-- **nqdung.com** — a dark-themed Flask utility suite for reading mail, generating 2FA codes.
-- A homelab running Proxmox, TrueNAS, AdGuard, Portainer, and Jellyfin—because paying for Netflix while self-hosting a media server is a cry for help.
+- **Telegram Order Bot** — a self-hosted Telegram storefront with PayOS QR payments, balance payments, automatic digital delivery, and a React admin dashboard.
+- **TMail** — a passwordless temporary-mail web app and API with automatic domain provisioning through Postfix and Stalwart JMAP.
+- **Xray VLESS Go** — a Go proxy server on xray-core with graceful shutdown, health checks, systemd integration, and self-updating rollback.
+- **Outlook Graph Module** — a TypeScript/Python client for Microsoft Graph with OAuth2, retry/backoff, and 401/429 recovery baked in.
+- Also shipped: a Canva access-automation suite, a KiotProxy manager behind Traefik, and a homelab running Proxmox, TrueNAS, AdGuard, Portainer, and Jellyfin—because paying for Netflix while self-hosting a media server is a cry for help.
 
 ## how it usually goes
 
